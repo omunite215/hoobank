@@ -1,7 +1,11 @@
 
 # Hoo-Bank
 
+This is my first project using Vite
+
 A website which is a product page of a Bank displaying its products features, clients , feddbackccs and many more.
+
+This Project is hosted in Netlify : [HooBank](https://hoobankbyom.netlify.app/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -97,5 +101,7 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 
 
 
-![Logo](https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
+</p>
 
